@@ -1,3 +1,4 @@
+#count of characters"
 def main():
     c=input("enter a string")
     count=0
