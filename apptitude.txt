@@ -1,0 +1,39 @@
+1) wht is the propabilty of getting 2 tails when 2 coins ar tossed
+Explain:
+they are 7w of letter
+but they are 2n's
+therefore
+no of ways of arranging=7!/2!==7*6*5*4*3*2*1/2*1==2520 ways
+
+=======================================================================
+2 )A bag contains 8 red balls and 5 white balls , 2 balls are drawn at
+random, what is the propab that the bth are white 
+Explain:
+======
+total no of balls in a bag are 8+5=13
+let  s be the event of drawing 2 white balls from 
+5 white balls n(e)=5c2
+p(e)=5c2/13c2=
+5*4/13*12
+==5/39
+
+=================================================================
+
+3)the propab that card drawn from a pack of 52 cards
+ will form a pack of 52cards will be adiamond or king being in
+ex:
+
+Total no of ways=52
+there are 13 cars of diamonds
+4 cards of king
+one card is king of diamond which is counted
+ both in diamond and king of cards 
+Favarable ways = 13+4-1=16
+rpropabil required =16/52=4/3
+
+===================================================
+
+5) total no of coins when 2 coins are taken =HH TT HT TH
+only 1 outcome is TT
+so the propability of getting T when 2 coins are tossed= 
+no of favaable out/ total no out come =1/4
